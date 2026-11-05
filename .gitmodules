@@ -1,0 +1,3 @@
+[submodule "extern/quantim"]
+	path = extern/quantim
+	url = https://github.com/r0ine/quantim.git

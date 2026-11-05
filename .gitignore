@@ -1,0 +1,10 @@
+build/
+*.log
+__pycache__/
+.env
+_taslak/
+DEVIR.md
+YENI_SOHBET_PROMPTU.md
+
+HAFIZA.md
+docs/referans/
